@@ -1,4 +1,4 @@
-# DSPcourse_design
+# DSPcourse
 This is a course design of GDUT, with the instruction of GuangPing Li associate professor
 
 
